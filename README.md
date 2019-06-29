@@ -1,5 +1,6 @@
-# Data Science Project
-## Potential Sources:
+# Analyzing Pokemon
+
+## Other Considered Topics:
 - [Coffee Beans](https://www.reddit.com/r/datasets/comments/8rndor/data_on_1340_coffee_bean_reviews_aroma_acidity/)
 - [Russian Trolls](https://www.reddit.com/r/datasets/comments/7xhnwu/200k_tweets_from_russian_trolls_manipulating_2016/)
 - [Police Brutality](https://www.reddit.com/r/datasets/comments/al1dbf/how_we_made_17000_police_officers_records_into_a/)
@@ -7,3 +8,4 @@
 - [Seinfield](https://www.reddit.com/r/datasets/comments/8252de/all_seinfeld_scripts_and_episode_details/)
 - [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
 - [World of Warcraft ~ Auction House](https://www.reddit.com/r/datasets/comments/c2kkce/25_years_of_world_of_warcraft_auction_house/)
+- [Pokemon](https://www.kaggle.com/rounakbanik/pokemon/downloads/pokemon.zip/1)
